@@ -1,0 +1,10 @@
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\bin\Release\Snake_Game.exe.config
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\bin\Release\Snake_Game.exe
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\bin\Release\Snake_Game.pdb
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\obj\Release\Snake_Game.csproj.AssemblyReference.cache
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\obj\Release\Snake_Game.SnakeGame.resources
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\obj\Release\Snake_Game.Properties.Resources.resources
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\obj\Release\Snake_Game.csproj.GenerateResource.cache
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\obj\Release\Snake_Game.csproj.CoreCompileInputs.cache
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\obj\Release\Snake_Game.exe
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Snake_Game\Snake_Game\obj\Release\Snake_Game.pdb
